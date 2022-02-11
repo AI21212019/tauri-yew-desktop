@@ -31,9 +31,9 @@ This should create an installer in src-tauri/target/release/bundle/
 
 ## Further reading
 
-Tauri: https://tauri.studio/en/docs/get-started/intro
+<img src="src-tauri/icons/32x32.png" width="20"/>Tauri: https://tauri.studio/en/docs/get-started/intro
 
-Yew: https://yew.rs/docs/getting-started/introduction
+<img src="https://yew.rs/img/logo.png" width="15" />Yew: https://yew.rs/docs/getting-started/introduction
 
 ## Acknowledgement:
 
